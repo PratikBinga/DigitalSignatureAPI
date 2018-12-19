@@ -1,0 +1,6 @@
+C:\Users\JD918KY\source\repos\DigitalSignatureApplication\DigitalSignature.Domain.Core\bin\Debug\DigitalSignature.Domain.Core.dll
+C:\Users\JD918KY\source\repos\DigitalSignatureApplication\DigitalSignature.Domain.Core\bin\Debug\DigitalSignature.Domain.Core.pdb
+C:\Users\JD918KY\source\repos\DigitalSignatureApplication\DigitalSignature.Domain.Core\obj\Debug\DigitalSignature.Domain.Core.csprojAssemblyReference.cache
+C:\Users\JD918KY\source\repos\DigitalSignatureApplication\DigitalSignature.Domain.Core\obj\Debug\DigitalSignature.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\JD918KY\source\repos\DigitalSignatureApplication\DigitalSignature.Domain.Core\obj\Debug\DigitalSignature.Domain.Core.dll
+C:\Users\JD918KY\source\repos\DigitalSignatureApplication\DigitalSignature.Domain.Core\obj\Debug\DigitalSignature.Domain.Core.pdb

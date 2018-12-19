@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{63B21B8A-8E47-495C-8BA9-119928386635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignature.Api", "DigitalSignature.Api\DigitalSignature.Api.csproj", "{71EA26FF-017B-4BC6-B280-3F8CE55AB5D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{166E16C8-9B21-4EE1-AFAB-3441376827F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignature.Service", "DigitalSignature.Service\DigitalSignature.Service.csproj", "{C6CDF1E5-3EF7-4BEB-99D0-B7441CA47DC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{795C2FE9-7F9B-440F-B70E-CC6482EC85C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignature.Domain.Core", "DigitalSignature.Domain.Core\DigitalSignature.Domain.Core.csproj", "{55357451-6CA3-4F44-A959-804EAE144B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EA26FF-017B-4BC6-B280-3F8CE55AB5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EA26FF-017B-4BC6-B280-3F8CE55AB5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EA26FF-017B-4BC6-B280-3F8CE55AB5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EA26FF-017B-4BC6-B280-3F8CE55AB5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CDF1E5-3EF7-4BEB-99D0-B7441CA47DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CDF1E5-3EF7-4BEB-99D0-B7441CA47DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CDF1E5-3EF7-4BEB-99D0-B7441CA47DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CDF1E5-3EF7-4BEB-99D0-B7441CA47DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55357451-6CA3-4F44-A959-804EAE144B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55357451-6CA3-4F44-A959-804EAE144B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55357451-6CA3-4F44-A959-804EAE144B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55357451-6CA3-4F44-A959-804EAE144B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71EA26FF-017B-4BC6-B280-3F8CE55AB5D9} = {63B21B8A-8E47-495C-8BA9-119928386635}
+		{C6CDF1E5-3EF7-4BEB-99D0-B7441CA47DC1} = {166E16C8-9B21-4EE1-AFAB-3441376827F1}
+		{55357451-6CA3-4F44-A959-804EAE144B7D} = {795C2FE9-7F9B-440F-B70E-CC6482EC85C2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6AA775C-6F79-49BD-9A31-FB2BF0BFCFD8}
+	EndGlobalSection
+EndGlobal
